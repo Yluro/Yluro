@@ -1,4 +1,8 @@
-## Hi there 👋
+PhD researcher in nanoscience in UB.
+I make software tools to make my life harder.
+
+Contact Information: jose.serranog@ub.edu
+
 
 <!--
 **Yluro/Yluro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
